@@ -5,5 +5,6 @@ Transformerのエンコーダを利用した画像認識モデルVisionTransform
 以下のリンクから論文を読めます。
 https://openreview.net/forum?id=YicbFdNTTy
 
-![image](https://github.com/Yuhei-Handa/VisionTransformer/assets/135846516/ce5f6522-7fed-4633-aea8-7f74518fe632)
+![image](https://github.com/Yuhei-Handa/VisionTransformer/assets/135846516/3e0c7ba9-abb4-483d-a22c-07d9b11dd38f)
+
 
